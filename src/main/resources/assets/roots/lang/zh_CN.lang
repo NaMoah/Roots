@@ -338,7 +338,7 @@ roots.research.ritual.ritual.page3info=一个典型的仪式是： 首先,将必
 
 roots.research.ritual.livingtools.name=活木工具
 roots.research.ritual.livingtools.page1title.name=自动修复
-roots.research.ritual.livingtools.page1info=你的仪式能将生命能量引导到死亡的物品上. 使用这个,你可以增强你的木制工具. 加入一点金子,还有青翠绿枝, 会给你的工具以铁工具的挖掘等级, 随着时间的推移工具会自动修复.
+roots.research.ritual.livingtools.page1info=你的仪式能将生命能量引导到无生命的物品上. 使用这个,你可以增强你的木制工具. 加入一点金子,还有青翠绿枝, 会给你的工具以铁工具的挖掘等级, 随着时间的推移工具会自动修复.
 roots.research.ritual.livingtools.page2title.name=仪式：活木镐
 roots.research.ritual.livingtools.page3title.name=仪式：活木斧
 roots.research.ritual.livingtools.page4title.name=仪式：活木锹
@@ -553,7 +553,7 @@ roots.research.sprite.spellweaverlance.page2title.name=仪式：巫师之枪
 
 roots.research.sprite.talismanpursuit.name=连锁符
 roots.research.sprite.talismanpursuit.page1title.name=传递伤害
-roots.research.sprite.talismanpursuit.page1info=连锁符处于物品栏时, 没杀死一个敌人就会释放出一个魔法弹去攻击附近的敌人.
+roots.research.sprite.talismanpursuit.page1info=连锁符处于物品栏时, 每杀死一个敌人就会释放出一个魔法弹去攻击附近的敌人.
 roots.research.sprite.talismanpursuit.page2title.name=仪式：连锁符
 
 roots.research.sprite.amuletconserving.name=积蓄符
@@ -572,7 +572,7 @@ roots.research.sprite.evocation.page1info=召唤咒文是一个非常强力的�
 
 roots.research.sprite.conjuration.name=素材：魔力
 roots.research.sprite.conjuration.page1title.name=架起桥梁
-roots.research.sprite.conjuration.page1info=魔力咒文是一个非常强力的精灵掉落物, 在仪式中,它可以替代一个花瓣之尘. 它的法术将会创造一些方块于你所看的地方.
+roots.research.sprite.conjuration.page1info=魔力咒文是一个非常强力的精灵掉落物, 在仪式中,它可以替代一个花瓣之尘. 它的法术将会在你所指的地方创造一些方块.
 
 roots.research.sprite.illusion.name=素材：幻象
 roots.research.sprite.illusion.page1title.name=隐匿
