@@ -596,7 +596,7 @@ roots.research.sprite.talismanhunger.page2title.name=仪式：吸收符
 
 roots.research.sprite.hourglass.name=远古沙漏
 roots.research.sprite.hourglass.page1title.name=死亡保护
-roots.research.sprite.hourglass.page1info=远古沙漏将阻止一次死亡. 当你被杀死时这个存在于你的物品栏, 它将会消失以防止你死去, 给你留下半心的生命值, 同时对周围生物停止时间.
+roots.research.sprite.hourglass.page1info=远古沙漏将阻止一次死亡. 当你被杀死时若它你的物品栏, 它将会消失以防止你死去, 给你留下半心的生命值, 同时对周围生物停止时间.
 roots.research.sprite.hourglass.page2title.name=仪式：远古沙漏
 
 roots.research.sprite.pixiestone.name=灵石
