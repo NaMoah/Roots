@@ -182,13 +182,13 @@ roots.research.nature.magicalmaterials.name=稀有材料
 roots.research.nature.magicalmaterials.page1title.name=魔法植物素材
 roots.research.nature.magicalmaterials.page1info=在你周围有着许多罕见的植物和草药, 它们对于自然魔法来说是至关重要的.
 roots.research.nature.magicalmaterials.page2title.name=古老树根
-roots.research.nature.magicalmaterials.page2info=打高草丛时有1/40的概率出现古老树根. 早期你所能制作的魔法会大量需要它, 因为这些魔法无需进一步加工. 它们也可以吃,但只回复很少的饱食度.
+roots.research.nature.magicalmaterials.page2info=打草丛时有1/40的概率出现古老树根. 早期你所能制作的魔法会大量需要它, 因为这些魔法无需进一步加工. 它们也可以吃,但只回复很少的饱食度.
 roots.research.nature.magicalmaterials.page3title.name=青翠绿枝
-roots.research.nature.magicalmaterials.page3info=在你收获作物时,有1/30的概率出现青翠绿枝. 它们身上有着生命的力量,即使被摘了下来也会永存. 因此涉及它们的魔法常常与生命有关.
+roots.research.nature.magicalmaterials.page3info=在你收获作物时,有1/30的概率出现青翠绿枝. 它们有着生命的力量,即使被摘下来也会永存. 因此涉及它们的魔法常常与生命有关.
 roots.research.nature.magicalmaterials.page4title.name=地狱球茎
 roots.research.nature.magicalmaterials.page4info=在你收获地狱疣时,有1/20的概率出现地狱球茎. 它们蕴含着丰富的下界能量, 在制作需要很多能量的魔法时,常常会用到它们. 它们也是优良的燃料.如果把它给予骷髅射手, 邪恶的白色将会成为凋零的颜色.
 roots.research.nature.magicalmaterials.page5title.name=龙之眼
-roots.research.nature.magicalmaterials.page5info=在你收获紫影果时,有1/10的概率出现龙之眼. 它和末影龙本身一样蕴藏着邪恶能量. 除制作魔法外,吃掉它可以被随机传送, 就像紫颂果一样,但效果更强,或者冶炼它成为末影珍珠.
+roots.research.nature.magicalmaterials.page5info=在你收获紫颂果时,有1/10的概率出现龙之眼. 它和末影龙本身一样蕴藏着邪恶能量. 除制作魔法外,吃掉它可以被随机传送, 就像紫颂果一样,但效果更强,或者冶炼它成为 末影珍珠.
 
 roots.research.nature.grassseeds.name=绿化粉末
 roots.research.nature.grassseeds.page1title.name=草坪养护
@@ -218,7 +218,7 @@ roots.research.spells.mortar.page1info=世界各地的植物似乎有着什么�
 roots.research.spells.mortar.page2title.name=杵
 roots.research.spells.mortar.page2info=当然,不是要让你空手将它们捣碎. 看,那边的闪长岩就很适合做一个杵, 去吧,这会帮你一个大忙的.
 roots.research.spells.mortar.page3title.name=用法
-roots.research.spells.mortar.page3info=用臼和杵很简单, 这里,hi,就是这,你正在看的这个符文中记载了 许多不同的魔咒.你需要的仅仅是把所需的材料 放在正确的位置,再加上一个主要的特定材料, Abracadabra,ho,你想要的那些基本法术就出来了. 不过只是最简单的那种噢. (温馨提示：古老树根是必须的)
+roots.research.spells.mortar.page3info=用臼和杵很简单, 这里,hi,就是这,你正在看的这个符文中记载了 许多不同的魔咒.你需要的仅仅是把所需的材料 放在正确的位置,再加上一个主要的特定材料 (古老树根等),Abracadabra. ho,你想要的那些基本法术就出来了. 不过只是最简单的那种噢. (温馨提示：古老树根等是必须的)
 
 roots.research.spells.imbuer.name=向法杖灌输魔力
 roots.research.spells.imbuer.page1title.name=注造器
@@ -368,13 +368,13 @@ roots.research.ritual.crystalstaff.page1title.name=可重复使用的魔法
 roots.research.ritual.crystalstaff.page1info=这么长时间以来, 你都苦恼于你那些法杖的使用次数, 使用从地球深处的带来的稀有水晶, 你相信你已经创造了一种方法来无限期储存 魔法：水晶法杖.这支法杖不仅可以无限期地 保存法术,它也可以同时储存多达四种魔法.
 roots.research.ritual.crystalstaff.page2title.name=仪式：水晶锻造
 roots.research.ritual.crystalstaff.page3title.name=加点魔法
-roots.research.ritual.crystalstaff.page3info=为法杖添加法术需要额外的仪式, 除了这个仪式所显示的, 你可以总计加入四个花瓣之尘. 如果需要覆盖以前的法术. shift+右键来覆盖法杖中的法术.
+roots.research.ritual.crystalstaff.page3info=为法杖添加法术需要额外的仪式, 你可以总计加入四个花瓣之尘, 通过焚香来将花瓣之尘灌输进法杖. 如果需要切换法术. shift+右键来切换法杖中的法术.
 roots.research.ritual.crystalstaff.page4title.name=仪式：水晶镶嵌
 
 
 roots.research.ritual.rainrituals.name=天气的控制
 roots.research.ritual.rainrituals.page1title.name=天气魔法
-roots.research.ritual.rainrituals.page1info=用一个简单的自然成分, 你已经创造了两个仪式, 一个将召唤雨,另一个将其放逐. 请施展在y=128高度以上.
+roots.research.ritual.rainrituals.page1info=用一个简单的自然成分, 可以创造出这两个仪式, 一个将召唤雨,另一个将其放逐. 请施展在y=128高度以上.
 roots.research.ritual.rainrituals.page2title.name=仪式：召唤雨雪
 roots.research.ritual.rainrituals.page3title.name=仪式：放逐雨雪
 
@@ -400,7 +400,7 @@ roots.research.ritual.monstersummoning.page8title.name=召唤仪式：末影人
 
 roots.research.ritual.sylvanarmor.name=森林盔甲
 roots.research.ritual.sylvanarmor.page1title.name=德鲁伊的长袍
-roots.research.ritual.sylvanarmor.page1info=使用一些皮革装甲为基础, 你已经成功地制造一些魔法长袍. 这个装备没有很高的护甲值, 但它会自动修复和提高你的法术持久.
+roots.research.ritual.sylvanarmor.page1info=使用一些皮革装甲为基础, 可以制造这样一套魔法长袍. 这个装备没有很高的护甲值, 但它会自动修复和提高你的法术持久.
 roots.research.ritual.sylvanarmor.page2title.name=仪式：森林头盔
 roots.research.ritual.sylvanarmor.page3title.name=仪式：森林祭袍
 roots.research.ritual.sylvanarmor.page4title.name=仪式：森林护腿
@@ -408,7 +408,7 @@ roots.research.ritual.sylvanarmor.page5title.name=仪式：森林靴子
 
 roots.research.ritual.wildwoodarmor.name=守护者装备
 roots.research.ritual.wildwoodarmor.page1title.name=木制装备
-roots.research.ritual.wildwoodarmor.page1info=华丽的长袍是很好的, 但有时你只是想要原始的保护. 守护者的盔甲,以铁盔甲为基础, 有铁和钻石装甲之间的护甲值,也将自动修复. 即使当饥饿值空着的时候, 它也有着生命恢复的效果(已失效).
+roots.research.ritual.wildwoodarmor.page1info=华丽的长袍是很好的, 但有时你只是想要原始的保护. 守护者的盔甲,以铁盔甲为基础, 有铁和钻石装甲之间的护甲值,也将自动修复. 即使当饥饿值空着的时候, 它也有着生命恢复的效果.
 roots.research.ritual.wildwoodarmor.page2title.name=守护者面具
 roots.research.ritual.wildwoodarmor.page3title.name=守护者胸甲
 roots.research.ritual.wildwoodarmor.page4title.name=守护者护腿
@@ -416,7 +416,7 @@ roots.research.ritual.wildwoodarmor.page5title.name=守护者靴子
 
 roots.research.ritual.poweredstones.name=充能石柱
 roots.research.ritual.poweredstones.page1title.name=简单而有效
-roots.research.ritual.poweredstones.page1info=你使用石柱的生命能量来进行仪式, 但从来没有发挥它们自己的作用. 然而,使用地狱球茎和仪式的再生效果, 你制造出了充能石柱, 它们将永远在周围发挥着自己的作用, 没有成本.
+roots.research.ritual.poweredstones.page1info=你使用石柱的生命能量来进行仪式, 但从来没有发挥出它们自己的作用. 然而,使用地狱球茎和仪式的再生效果, 你制造出了充能石柱, 它们将永远在周围发挥着自己的作用, 没有成本.
 roots.research.ritual.poweredstones.page2title.name=仪式：加速石柱
 roots.research.ritual.poweredstones.page3title.name=闪电侠
 roots.research.ritual.poweredstones.page3info=加速石柱将会给予周围生物速度Ⅱ的效果.
