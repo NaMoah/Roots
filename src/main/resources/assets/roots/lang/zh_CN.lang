@@ -408,13 +408,13 @@ roots.research.ritual.sylvanarmor.page5title.name=仪式：森林靴子
 
 roots.research.ritual.wildwoodarmor.name=守护者装备
 roots.research.ritual.wildwoodarmor.page1title.name=木制装备
-roots.research.ritual.wildwoodarmor.page1info=华丽的长袍是很好的, 但有时你只是想要原始的保护. 守护者的盔甲,以铁盔甲为基础, 有铁和钻石装甲之间的护甲值,也将自动修复. 即使当饥饿值空着的时候, 它也有着生命恢复的效果.
+roots.research.ritual.wildwoodarmor.page1info=华丽的长袍是很好的, 但有时你只是想要原始的保护. 守护者的盔甲,以铁盔甲为基础, 有铁和钻石装甲之间的护甲值,也将自动修复. 即使当饥饿值空着的时候, 它也有着生命恢复的效果(已失效).
 roots.research.ritual.wildwoodarmor.page2title.name=守护者面具
 roots.research.ritual.wildwoodarmor.page3title.name=守护者胸甲
 roots.research.ritual.wildwoodarmor.page4title.name=守护者护腿
 roots.research.ritual.wildwoodarmor.page5title.name=守护者靴子
 
-roots.research.ritual.poweredstones.name=充能石柱
+roots.research.ritual.poweredstones.name=充能石柱(已失效)
 roots.research.ritual.poweredstones.page1title.name=简单而有效
 roots.research.ritual.poweredstones.page1info=你使用石柱的生命能量来进行仪式, 但从来没有发挥出它们自己的作用. 然而,使用地狱球茎和仪式的再生效果, 你制造出了充能石柱, 它们将永远在周围发挥着自己的作用, 没有成本.
 roots.research.ritual.poweredstones.page2title.name=仪式：加速石柱
@@ -464,7 +464,7 @@ roots.research.ritual.runicFocus.page4title.name=仪式：符文核心充能
 
 roots.research.ritual.timeshift.name=时间移位
 roots.research.ritual.timeshift.page1title.name=时来时去!
-roots.research.ritual.timeshift.page1info=经过几个小时你发现, 通过燃烧普通的时间保持仪式,你可以移动时间, 这个数量与烧过的时间成正比
+roots.research.ritual.timeshift.page1info=经过几个小时你发现, 通过燃烧普通的时间保持仪式,你可以移动时间, 这个移动的数量与烧过的时间成正比
 roots.research.ritual.timeshift.page2title.name=仪式：时间移位
 
 roots.research.ritual.poweredstones.page16title.name=仪式：装饰用石柱
@@ -591,7 +591,7 @@ roots.research.sprite.guardian.page3title.name=仪式：召唤精灵守卫者
 
 roots.research.sprite.talismanhunger.name=吸收符
 roots.research.sprite.talismanhunger.page1title.name=吸收攻击
-roots.research.sprite.talismanhunger.page1info=吸收符吸收能量伤害：火或者爆炸. 之后它需要10秒冷却 (直到它发光) .
+roots.research.sprite.talismanhunger.page1info=吸收符吸收能量伤害：火或者爆炸. 之后它需要10秒冷却 (发光说明它正在冷却) .
 roots.research.sprite.talismanhunger.page2title.name=仪式：吸收符
 
 roots.research.sprite.hourglass.name=远古沙漏
@@ -601,7 +601,7 @@ roots.research.sprite.hourglass.page2title.name=仪式：远古沙漏
 
 roots.research.sprite.pixiestone.name=灵石
 roots.research.sprite.pixiestone.page1title.name=蹦蹦跳
-roots.research.sprite.pixiestone.page1info=灵石将会使你免受摔落伤害. 当其发光时 (右击改变模式), 无论你摔得多快, 灵石都会给你一个缓冲以免你落地过快.
+roots.research.sprite.pixiestone.page1info=灵石将会使你免受摔落伤害. 当其发光时 (shift右击改变模式), 无论你摔得多快, 灵石都会给你一个缓冲以免你落地过快.
 roots.research.sprite.pixiestone.page2title.name=仪式：灵石
 
 roots.research.sprite.spiritblocks.name=魂块
